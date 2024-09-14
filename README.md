@@ -2,7 +2,7 @@
 
 ## Overview
 
-1. [Introduction](#introduction)
+1. [Introduction](#1-introduction)
 2. [Entity Relationship Diagram](#entity-relationship-diagram)
 3. [Schema DDL](#schema-ddl)
 4. [Sample Queries](#sample-queries)
